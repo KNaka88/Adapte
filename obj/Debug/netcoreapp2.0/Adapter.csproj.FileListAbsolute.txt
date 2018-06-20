@@ -1,0 +1,11 @@
+/Users/koji/Repositories/Csharp/Adapter/bin/Debug/netcoreapp2.0/Adapter.deps.json
+/Users/koji/Repositories/Csharp/Adapter/bin/Debug/netcoreapp2.0/Adapter.runtimeconfig.json
+/Users/koji/Repositories/Csharp/Adapter/bin/Debug/netcoreapp2.0/Adapter.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/Adapter/bin/Debug/netcoreapp2.0/Adapter.dll
+/Users/koji/Repositories/Csharp/Adapter/bin/Debug/netcoreapp2.0/Adapter.pdb
+/Users/koji/Repositories/Csharp/Adapter/obj/Debug/netcoreapp2.0/Adapter.csprojResolveAssemblyReference.cache
+/Users/koji/Repositories/Csharp/Adapter/obj/Debug/netcoreapp2.0/Adapter.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/Adapter/obj/Debug/netcoreapp2.0/Adapter.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/Adapter/obj/Debug/netcoreapp2.0/Adapter.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/Adapter/obj/Debug/netcoreapp2.0/Adapter.dll
+/Users/koji/Repositories/Csharp/Adapter/obj/Debug/netcoreapp2.0/Adapter.pdb
